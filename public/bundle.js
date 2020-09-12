@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _soma__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./soma */ \"./src/soma.js\");\n\nconsole.log(Object(_soma__WEBPACK_IMPORTED_MODULE_0__[\"soma\"])(5, 5));\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _soma__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./soma */ \"./src/soma.js\");\n\nconsole.log(Object(_soma__WEBPACK_IMPORTED_MODULE_0__[\"soma\"])(10, 35));\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ }),
 
